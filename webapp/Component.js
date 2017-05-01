@@ -1,6 +1,7 @@
 /**Historical changes 
  * 1) Base copy of master
  * 2) Base copy of resource 01 - revision 01.
+ * 3) Base copy of resource 01 - revision 02.
 */
 
 sap.ui.define([
