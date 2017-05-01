@@ -2,6 +2,7 @@
  * 1) Base copy of master
  * 2) Base copy of resource 01 - revision 01.
  * 3) Base copy of resource 01 - revision 02.
+ * 4) Rebase this version onto the master.
 */
 
 sap.ui.define([
