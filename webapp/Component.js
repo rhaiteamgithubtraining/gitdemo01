@@ -1,5 +1,6 @@
 /**Historical changes 
  * 1) Base copy of master
+ * 2) Base copy of resource 02 - revision 01.
 
 */
 
