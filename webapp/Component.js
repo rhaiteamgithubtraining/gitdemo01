@@ -2,11 +2,17 @@
  * 1) Base copy of master
  * 2) Base copy of resource 02 - revision 01.
  * 3) Base copy of resource 02 - revision 02.
- * 4) Rebase this copy onto the master.
+ * 4) Rebase this copy (resource 02's) onto the master.
  * 2) Base copy of resource 01 - revision 01.
  * 3) Base copy of resource 01 - revision 02.
+<<<<<<< HEAD
  * 4) Rebase this version onto the master.
  * 5) Additional master notes.
+=======
+ * 4) Rebase this version (resource 01's) onto the master.
+ * 5) Resource 01 revision 03. Pushing this also.
+ * 6) Resource 01 revision 04. Pushing this also.
+>>>>>>> 38e45327095de6315747448fa0b0a849627222d1
 
 */
 
